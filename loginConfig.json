@@ -1,8 +1,8 @@
 {
     "HOT_UPDATE_URL": ["https://ttqipai.oss-cn-hongkong.aliyuncs.com/update/"],
     "GATE_SERVER_LIST": ["G001wkv7x9s.ua800.com", "G0013xziqbs.ua800.com", "G001ofvturk.ua800.com", "G001tzo2bcf.ua800.com"],
-    "WEB_HTTP_URL_TEST": ["http://T001dozmu2o.ua800.com:8001", "http://T001bzsgoee.ua800.com:8001", "http://T001tc3ke4x.ua800.com:8001"],
-    "PAY_SERVER":  ["http://T001dozmu2o.ua800.com:8001", "http://T001bzsgoee.ua800.com:8001", "http://T001tc3ke4x.ua800.com:8001"],
+    "WEB_HTTP_URL_TEST": ["http://T001dozmu2o.ua800.com", "http://T001bzsgoee.ua800.com", "http://T001tc3ke4x.ua800.com"],
+    "PAY_SERVER":  ["http://T001dozmu2o.ua800.com", "http://T001bzsgoee.ua800.com", "http://T001tc3ke4x.ua800.com"],
     "httpmd5": "lz-123321.",
     "QRcode": "https://app-g6m1gr.openinstall.io/js-test",
     "VERSION_APK":"1"
